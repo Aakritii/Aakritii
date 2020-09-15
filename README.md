@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on <b>Different Machine Learning Projects, Web Development</b>
 
-- 💬 Ask me about <b>Front End Development (HTML, CSS) & Machine Learning Algorithms.</b>
+- 💬 Ask me about <b>ETL Development (Python, Shell Scripting) & Data Visualization (Tableau).</b>
 
 - 📫 Check my Profile on : www.linkedin.com/in/aakriti-salampuria
  
