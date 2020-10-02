@@ -1,5 +1,6 @@
 
 ### <h1 align="center">Hello World :earth_asia:, I am Aakriti Salampuria</h1>
+<h3 align="center>Curious Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakritii" alt="aakritii" /> </p>
 <h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3>
@@ -11,6 +12,8 @@
 - 💬 Ask me about <b>ETL Development (Python, Shell Scripting) & Data Visualization (Tableau).</b>
 
 - 📫 Check my Profile on : www.linkedin.com/in/aakriti-salampuria
+
+- How to reach me : aakritiagarwal2@gmail.com
  
  <br>
  
