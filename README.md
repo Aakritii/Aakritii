@@ -13,7 +13,7 @@
 
 - 📫 Check my Profile on : www.linkedin.com/in/aakriti-salampuria
 
-- How to reach me : aakritiagarwal2@gmail.com
+- You can reach me @ aakritiagarwal2@gmail.com
  
  <br>
  
