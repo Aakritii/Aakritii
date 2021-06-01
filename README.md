@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakritii" alt="aakritii" /> </p>
 <h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3>
 
-- 🌱 <b>ETL Developer @ Tata Consultancy Services.</b>
+- 🌱 <b>Consultant - Data Engineer @ Factspan Analytics.</b>
 
-- 👯 I’m looking to collaborate on <b>Different Machine Learning Projects, Web Development</b>
+- 👯 I’m looking to collaborate on <b>Different Machine Learning Projects</b>
 
 - 💬 Ask me about <b>ETL Development (Python, Shell Scripting) & Data Visualization (Tableau).</b>
 
