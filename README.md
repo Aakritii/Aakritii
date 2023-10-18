@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakritii" alt="aakritii" /> </p>
 <h3>I like experimenting with new technologies, building small projects, and occassionally joining hackathons.</h3>
 
-- 🌱 <b>Consultant - Data Engineer @ Factspan Analytics.</b>
+- 🌱 <b>Consultant - Data Engineer @ IDFC Bank.</b>
 
 - 👯 I’m looking to collaborate on <b>Different Machine Learning Projects</b>
 
